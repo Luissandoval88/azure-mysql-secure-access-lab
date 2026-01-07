@@ -1,0 +1,15 @@
+# Linux
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# SSH keys (just in case)
+*.pem
+*.key
+
+# Environment variables
+.env
+
+# MySQL
+*.sql
